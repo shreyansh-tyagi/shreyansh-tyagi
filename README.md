@@ -11,6 +11,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi&layout=compact&theme=blue-green&)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/shreyansh-tyagi/Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=Projects&theme=blue-green&show_owner=shreyansh-tyagi" />
 </a>
@@ -19,7 +22,6 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi&layout=compact&theme=blue-green&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreyansh_tyagi)](https://github.com/shreyansh-tyagi/github-readme-stats)
 
