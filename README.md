@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=C_programs-linux-ubuntu-&theme=blue-green&)" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi)]
 
 
 
