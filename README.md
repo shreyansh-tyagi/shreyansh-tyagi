@@ -11,6 +11,13 @@
 * 📌 *Scroll down to see my Pinned Repositories.*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=Projects&theme=blue-green&show_owner=shreyansh-tyagi)](https://github.com/shreyansh-tyagi/Projects)
 
 
