@@ -1,1 +1,1 @@
-### Hi, (https://github.com/GullyGupta/GullyGupta/blob/main/Hi.gif) SHREYANSH TYAGI
+### Hi,  SHREYANSH TYAGI
