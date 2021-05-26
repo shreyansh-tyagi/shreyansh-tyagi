@@ -1,4 +1,4 @@
-## **Hi 👋, I'm SHREYANSH TYAGI !*
+## *Hi 👋, I'm SHREYANSH TYAGI !*
 
 🎓 Completed M.C.A.(Hons.) From Lovely Professional University!
 💼 Currently working on Computer Vision, NLP & Deep Learning projects.
