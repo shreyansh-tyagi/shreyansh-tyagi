@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi&layout=compact&theme=blue-green&)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreyansh_tyagi)](https://github.com/shreyansh-tyagi/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreyansh_tyagi&theme=blue-green)](https://github.com/shreyansh-tyagi/github-readme-stats)
 
 
 <a href="https://github.com/shreyansh-tyagi/Projects">
