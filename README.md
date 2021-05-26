@@ -4,8 +4,10 @@
 ## *Data Science Enthusiast !!!*
 * 🎓 *Pursuing M.C.A. From KIET GROUP OF INSTITUTION (KIET), GHAZIABAD !*
 * 💼 *Currently working on desktop assistant project using python.*
+* 🌱 *I’m currently learning Data Structure, Python and C++.*
 * 🎯 *2021 Goals: Learn and Contribute more towards Data Science Community.*
 * 💬 *Ask me about Python, C, C++, SQL, Gitbash, Data Structure, HTML, CSS.*
+* ⚡ *Fun fact I spend around 10hrs per day on 💻*
 * 📌 *Scroll down to see my Pinned Repositories.*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true)
