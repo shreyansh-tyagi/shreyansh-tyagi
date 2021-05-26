@@ -9,8 +9,8 @@
 * 👨‍💻 *All of my projects are available at https://github.com/shreyansh-tyagi/Projects*
 * 💬 *Ask me about Python, C, C++, SQL, Gitbash, Data Structure, HTML, CSS.*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=Projects&theme=blue-green&show_owner=shreyansh-tyagi)](https://github.com/shreyansh-tyagi/Projects)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=Projects&theme=blue-green&show_owner=shreyansh-tyagi)](https://github.com/shreyansh-tyagi/Projects)
+
 
 
 
