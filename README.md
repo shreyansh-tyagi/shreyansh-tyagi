@@ -11,14 +11,14 @@
 * 📌 *Scroll down to see my Pinned Repositories.*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/shreyansh-tyagi/Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=Projects&theme=blue-green&show_owner=shreyansh-tyagi" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/shreyansh-tyagi/C_programs-linux-ubuntu-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=C_programs-linux-ubuntu-&theme=blue-green&show_owner=shreyansh-tyagi)" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=Projects&theme=blue-green&show_owner=shreyansh-tyagi)](https://github.com/shreyansh-tyagi/Projects)
+[![Readme Card]()]
 
 
 
