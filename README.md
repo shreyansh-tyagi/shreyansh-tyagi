@@ -24,7 +24,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi&layout=compact&theme=blue-green&]" />
 </a>
-<img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-tyagi" />
+<img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-tyagi" />
 
 
 
