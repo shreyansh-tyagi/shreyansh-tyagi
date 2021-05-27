@@ -1,5 +1,4 @@
-## **Hi 👋, I'm SHREYANSH TYAGI  !** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'></a>
-
+## **Hi 👋, I'm SHREYANSH TYAGI !** 
 ![Profile views](https://gpvc.arturio.dev/shreyansh-tyagi) 
 
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
