@@ -29,10 +29,10 @@
 
 
 <a href="https://github.com/shreyansh-tyagi/Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=Projects&theme=blue-green&show_owner=shreyansh-tyagi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=Projects&theme=blue-green&show_owner=shreyansh-tyagi" />
 </a>
 <a href="https://github.com/shreyansh-tyagi/C_programs-linux-ubuntu-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=C_programs-linux-ubuntu-&theme=blue-green&)" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=C_programs-linux-ubuntu-&theme=blue-green&)" />
 </a>
 
 
