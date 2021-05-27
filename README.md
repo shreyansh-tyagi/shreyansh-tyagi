@@ -1,4 +1,5 @@
 ## **Hi 👋, I'm SHREYANSH TYAGI !**
+![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
 
 ## *Data Science Enthusiast !!!*
 * 🎓 *Pursuing M.C.A. From KIET GROUP OF INSTITUTION (KIET), GHAZIABAD !*
