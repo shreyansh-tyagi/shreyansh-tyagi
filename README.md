@@ -17,15 +17,16 @@
 * 📌 *Scroll down to see my Pinned Repositories.*
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shreyansh-tyagi)](https://github.com/ryo-ma/github-profile-trophy)
 <img align ="center" src ="https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true" />
 <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-tyagi" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi&layout=compact&theme=blue-green&]" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreyansh-tyagi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyansh-tyagi)  
+
 
 
 <a href="https://github.com/shreyansh-tyagi/Projects">
