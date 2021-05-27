@@ -1,4 +1,4 @@
-## **Hi 👋, I'm SHREYANSH TYAGI  !** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pro
+## **Hi 👋, I'm SHREYANSH TYAGI  !** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='25' height='25'></a>
 
 ![Profile views](https://gpvc.arturio.dev/shreyansh-tyagi) 
 
