@@ -1,4 +1,7 @@
 ## **Hi 👋, I'm SHREYANSH TYAGI !**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shreyansh-tyagi)  
+
+![Profile views](https://gpvc.arturio.dev/shreyansh-tyagi)  
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
 
 ## *Connect with me:-*
