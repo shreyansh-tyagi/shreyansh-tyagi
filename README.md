@@ -34,7 +34,7 @@
 </a>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyansh-tyagi&theme=blue-green&)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyansh-tyagi)  
 
 
 
