@@ -32,7 +32,7 @@
 <a href="https://github.com/shreyansh-tyagi/C_programs-linux-ubuntu-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=C_programs-linux-ubuntu-&theme=blue-green&)" />
 </a>
-<br></br>
+<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyansh-tyagi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyansh-tyagi)  
