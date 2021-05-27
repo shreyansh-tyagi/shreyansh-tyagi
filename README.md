@@ -1,6 +1,6 @@
-## **Hi 👋, I'm SHREYANSH TYAGI !** 
+## **Hi 👋, I'm SHREYANSH TYAGI  !** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pro
 
-![Profile views](https://gpvc.arturio.dev/shreyansh-tyagi) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' height='25' width='40'></a> 
+![Profile views](https://gpvc.arturio.dev/shreyansh-tyagi) 
 
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
 
