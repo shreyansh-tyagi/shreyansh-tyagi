@@ -3,7 +3,7 @@
 
 ## *Connect with me:-*
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/shreyansh-tyagi)&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/shreyansh-tyagi-8577111a1/)&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/shreyy_tyagi/)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/@shreyanshtyag14)&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='30'>](https://www.hackerrank.com/shreyansh_tyagi?hr_r=1)&nbsp;&nbsp;&nbsp;&nbsp; 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send?phone=919871920938&text=Hello%20Shreyansh!%20)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='30'>](https://api.whatsapp.com/send?phone=919871920938&text=Hello%20Shreyansh!%20)  
 
 
 
