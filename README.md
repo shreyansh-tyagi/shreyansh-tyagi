@@ -3,9 +3,6 @@
 
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
 
-## *Connect with me:-*
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/shreyansh-tyagi-8577111a1/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/shreyy_tyagi/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='25'>](https://api.whatsapp.com/send?phone=919871920938&text=Hello%20Shreyansh!%20)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/@shreyanshtyag14)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/shreyansh-tyagi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='25'>](https://www.hackerrank.com/shreyansh_tyagi?hr_r=1)
-
 
 ## *Data Science Enthusiast !!!*
 * 🎓 *Pursuing M.C.A. From KIET GROUP OF INSTITUTION (KIET), GHAZIABAD !*
@@ -17,7 +14,13 @@
 * 📌 *Scroll down to see my Pinned Repositories.*
 
 
+## *Connect with me:-*
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/shreyansh-tyagi-8577111a1/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/shreyy_tyagi/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='25'>](https://api.whatsapp.com/send?phone=919871920938&text=Hello%20Shreyansh!%20)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/@shreyanshtyag14)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/shreyansh-tyagi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='25'>](https://www.hackerrank.com/shreyansh_tyagi?hr_r=1)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyansh-tyagi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <img align ="center" src ="https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true" />
 <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh-tyagi" />
 
