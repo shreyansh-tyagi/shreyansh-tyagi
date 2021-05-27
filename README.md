@@ -19,7 +19,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shreyansh-tyagi)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true)
+<img align ="right" src ="https://github-readme-stats.vercel.app/api?username=shreyansh-tyagi&theme=blue-green&show_icons=true" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi&layout=compact&theme=blue-green&]" />
