@@ -5,7 +5,7 @@
 
 
 ## *Data Science Enthusiast !!!*
-* 🎓 *Pursuing M.C.A. From KIET GROUP OF INSTITUTION (KIET), GHAZIABAD !*
+* 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION (KIET), GHAZIABAD** !*
 * 💼 *Currently working on desktop assistant project using python.*
 * 🌱 *I’m currently learning Data Structure, Python and C++.*
 * 🎯 *2021 Goals: Learn and Contribute more towards Data Science Community.*
