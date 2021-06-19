@@ -1,4 +1,4 @@
-                                      ## **Hi 👋, I'm SHREYANSH TYAGI !** 
+##                                     **Hi 👋, I'm SHREYANSH TYAGI !** 
 ![Profile views](https://gpvc.arturio.dev/shreyansh-tyagi) 
 
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
