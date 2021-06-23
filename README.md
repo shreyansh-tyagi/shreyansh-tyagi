@@ -41,7 +41,7 @@
 
 
 
-<a href="https://github.com/shreyansh-tyagi/leetcode-problem">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=leetcode-problem&theme=blue-green&show_owner=shreyansh-tyagi" />
 </a>
 <a href="https://github.com/shreyansh-tyagi/C_programs-linux-ubuntu-">
