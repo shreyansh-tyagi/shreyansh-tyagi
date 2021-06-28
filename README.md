@@ -4,6 +4,7 @@
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
 <div align="right"><img src ="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt ="pic" width="302" height="300" align ="center"></img>
 </div>
+<p align="right">
 
 ## *Data Science Enthusiast !!!*
 * 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION (KIET), GHAZIABAD** !*
@@ -15,6 +16,7 @@
 * 🔥 *On a mission to code to earth every day for 365 days.*
 * 📌 *Scroll down to see my Pinned Repositories.*
 
+</p>
 
 
 
