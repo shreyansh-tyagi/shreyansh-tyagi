@@ -2,12 +2,14 @@
 ![Profile views](https://gpvc.arturio.dev/shreyansh-tyagi) 
 
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
-<img src ="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt ="pic" width="302" height="300" align ="center"></img>
-</div>## *Data Science Enthusiast !!!*
+<div align="right"><img src ="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt ="pic" width="302" height="300" align ="center"></img>
+</div>
+
+## *Data Science Enthusiast !!!*
 * 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION (KIET), GHAZIABAD** !*
 * 💼 *Currently working on **Desktop Assistant Project Using Python**.*
 * 🌱 *I’m currently learning Data Structure, Python and C++.*
-* 🎯 *2021 Goals: Learn and Contribute more towards Data Science Community.*<div align="right">
+* 🎯 *2021 Goals: Learn and Contribute more towards Data Science Community.*
 * 💬 *Ask me about Python, C, C++, SQL, Gitbash, Data Structure, HTML, CSS.*
 * ⚡ *Fun fact I spend around 14hrs per day on 💻*
 * 🔥 *On a mission to code to earth every day for 365 days.*
