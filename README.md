@@ -54,6 +54,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyansh-tyagi&repo=C_programs-linux-ubuntu-&theme=blue-green&)" />
 </a>
 
+<img src="stats.gif" width="90%"><br/><br/>
+
 
 
 
