@@ -15,6 +15,12 @@
 * 📌 *Scroll down to see my Pinned Repositories.*
 
 
+<div align="right">
+<img src ="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt ="pic" width="302" height="300" align ="center"></img>
+</div>
+
+
+
 ## *Connect with me:-*
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/shreyansh-tyagi-8577111a1/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/shreyy_tyagi/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='25'>](https://api.whatsapp.com/send?phone=919871920938&text=Hello%20Shreyansh!%20)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/@shreyanshtyag14)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/shreyansh-tyagi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='25'>](https://www.hackerrank.com/shreyansh_tyagi?hr_r=1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src= 'https://user-images.githubusercontent.com/71514413/122652357-1b4a9080-d15c-11eb-83ce-fbc077650dfc.png'  alt='hackerrank' height='25'>](https://leetcode.com/sunnytyagi886/)
 
