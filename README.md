@@ -38,7 +38,8 @@
 </a>
 
 <p align="center"> 
-  Visitors count<br>
+
+ ## **Visitors count**<br>
   <img src="https://profile-counter.glitch.me/shreyansh-tyagi/count.svg" />
 </p>
 
