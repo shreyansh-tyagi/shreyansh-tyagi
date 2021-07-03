@@ -38,7 +38,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyansh-tyagi&layout=compact&theme=blue-green&]" />
 </a>
 
-<p align="center" font-family: "Times New Roman", Times, serif;> 
+<p align="center"> 
  V.I.S.I.T.O.R.S<br>
   <img src="https://profile-counter.glitch.me/shreyansh-tyagi/count.svg" />
 </p>
