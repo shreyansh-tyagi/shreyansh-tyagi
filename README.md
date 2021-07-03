@@ -44,7 +44,6 @@
 </p>
 
 
-
 <img src="https://activity-graph.herokuapp.com/graph?username=shreyansh-tyagi&theme=react-dark&area=true&hide_border=true" width="100%">
 
 
