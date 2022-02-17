@@ -5,7 +5,7 @@
 
 ## *Data Science Enthusiast !!!*
 * 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION (KIET), GHAZIABAD** !*
-* 💼 *Currently working on **Desktop Assistant Project Using Python**.*
+* 💼 *Currently working as a SOFTWARE ENGINEER TRAINEE at ECHO MANAGED SERVICES.*
 * 🌱 *I’m currently learning Data Structure, Python and C++.*
 * 🎯 *2021 Goals: Learn and Contribute more towards Data Science Community.*
 * 💬 *Ask me about Python, C, C++, SQL, Gitbash, Data Structure, HTML, CSS.*
