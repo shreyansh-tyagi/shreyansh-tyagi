@@ -7,7 +7,7 @@
 * 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION (KIET), GHAZIABAD** !*
 * 💼 *Currently working as a SOFTWARE ENGINEER TRAINEE at ECHO MANAGED SERVICES.*
 * 🌱 *I’m currently learning Data Structure, Python and C++.*
-* 🎯 *2021 Goals: Learn and Contribute more towards Data Science Community.*
+* 🎯 *2022 Goals: Learn and Contribute more towards Data Science Community.*
 * 💬 *Ask me about Python, C, C++, SQL, Gitbash, Data Structure, HTML, CSS.*
 * ⚡ *Fun fact I spend around 14hrs per day on 💻*
 * 🔥 *On a mission to code to earth every day for 365 days.*
