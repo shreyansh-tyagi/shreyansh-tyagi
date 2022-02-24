@@ -40,7 +40,7 @@
 
 <p align="center"> 
  V.I.S.I.T.O.R.S<br>
-  <img src="https://profile-counter.glitch.me/shreyansh-tyagi/count.svg" /
+  <img src="https://profile-counter.glitch.me/shreyansh-tyagi/count.svg" />
 </p>
 
 
