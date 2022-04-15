@@ -4,11 +4,11 @@
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
 
 ## *Data Science Enthusiast !!!*
-* 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION (KIET), GHAZIABAD** !*
-* 💼 *Currently working as a **SOFTWARE ENGINEER TRAINEE at ECHO MANAGED SERVICES.** /*
-* 🌱 *I’m currently learning Data Structure, Python and C++.*
-* 🎯 *2022 Goals: Learn and Contribute more towards Data Science Community.*
-* 💬 *Ask me about Python, C, C++, SQL, Gitbash, Data Structure, HTML, CSS.*
+* 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION, GHAZIABAD** !*
+* 💼 *Currently working as a **SOFTWARE ENGINEER at ECHO MANAGED SERVICES.** /*
+* 🌱 *I’m currently learning Java, Springboot, Data Structure in java*
+* 🎯 *2022 Goals: Learn and Contribute more towards Java Backend Development.*
+* 💬 *Ask me about JAVA, Springboot, Python, C, C++, SQL, Gitbash, Data Structure in Java, HTML, CSS.*
 * ⚡ *Fun fact I spend around 14hrs per day on 💻*
 * 🔥 *On a mission to code to earth every day for 365 days.*
 * 📌 *Scroll down to see my Pinned Repositories.*
