@@ -4,9 +4,9 @@
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
 
 ## *JAVA BACKEND DEVELOPER !!!*
-* 💼 *Currently working as a **SOFTWARE ENGINEER at ECHO MANAGED SERVICES.** /*
+* 💼 *Currently working as a **SOFTWARE DEVELOPER at ECHO MANAGED SERVICES.** /*
 * 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION, GHAZIABAD** !*
-* 🌱 *I’m currently learning Java, Springboot, Data Structure in java*
+* 🌱 *Crafting JAVA, SPRINGBOOT, DATA STRUCTURES AND ALGORITHMS in Java*
 * 🎯 *2022 Goals: Learn and Contribute more towards Java Backend Development.*
 * 💬 *Ask me about JAVA, Springboot, Python, C, C++, SQL, Gitbash, Data Structure in Java, HTML, CSS.*
 * ⚡ *Fun fact I spend around 14hrs per day on 💻*
