@@ -4,11 +4,11 @@
 ![Shreyansh Tyagi](https://user-images.githubusercontent.com/71514413/119877602-de1d2500-bf46-11eb-8e56-d32ac2ef14f9.png)
 
 ## *JAVA BACKEND DEVELOPER !!!*
-* 💼 *Currently working as a **SOFTWARE DEVELOPER at ECHO MANAGED SERVICES.** /*
-* 🎓 *Pursuing M.C.A. From **KIET GROUP OF INSTITUTION, GHAZIABAD** !*
+* 💼 *Currently working as a **JAVA DEVELOPER at ECHO MANAGED SERVICES.** /*
+* 🎓 *Completed M.C.A. From **KIET GROUP OF INSTITUTION, GHAZIABAD** !*
 * 🌱 *Crafting JAVA, SPRINGBOOT, DATA STRUCTURES AND ALGORITHMS in Java*
-* 🎯 *2022 Goals: Learn and Contribute more towards Java Backend Development.*
-* 💬 *Ask me about JAVA, Springboot, Python, C, C++, SQL, Gitbash, Data Structure in Java, HTML, CSS.*
+* 🎯 *2023 Goals: Learn and Contribute more towards Java Backend Development.*
+* 💬 *Ask me about JAVA, Springboot, SpringMVC, Spring Security, HIbernate, SQL, Gitbash, Data Structure in Java, HTML, CSS, Python, C, C++.*
 * ⚡ *Fun fact I spend around 14hrs per day on 💻*
 * 🔥 *On a mission to code to earth every day for 365 days.*
 * 📌 *Scroll down to see my Pinned Repositories.*
