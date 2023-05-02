@@ -8,7 +8,7 @@
 * 🎓 *Completed M.C.A. From **KIET GROUP OF INSTITUTION, GHAZIABAD** !*
 * 🌱 *Crafting JAVA, SPRINGBOOT, DATA STRUCTURES AND ALGORITHMS in Java*
 * 🎯 *2023 Goals: Learn and Contribute more towards Java Backend Development.*
-* 💬 *Ask me about JAVA, Springboot, SpringMVC, Spring Security, HIbernate, SQL, Gitbash, Data Structure in Java, HTML, CSS, Python, C, C++.*
+* 💬 *Ask me about JAVA, Springboot, Spring MVC, Spring Security, Hibernate, Spring Data JPA, SQL, Gitbash, SonarQube, Data Structure in Java, HTML, CSS, JavaScript, Python, C, C++.*
 * ⚡ *Fun fact I spend around 14hrs per day on 💻*
 * 🔥 *On a mission to code to earth every day for 365 days.*
 * 📌 *Scroll down to see my Pinned Repositories.*
